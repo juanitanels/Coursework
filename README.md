@@ -8,12 +8,13 @@
 I'm 22 year old recent graduate (2023) in Politics anad International Studies from the Univeristy of Warwick. Despite my degree, I have always been intrigued by technology and its endless possibilities hence why I decided it was time to start my coding journey! I'm so grateful for this CFGDegree opportunity as I will continue to learn, grow and meet more like-minded people!
 
 ### This is me!
-![IMG_2744](https://github.com/user-attachments/assets/1427b4ea-dfdd-4817-b0b9-a28f9fae1161)
+<img src="IMG_2744.jpg" alt="Alt text" width="300">
+
 
 <br>
 
 
-### Facts About Me
+### 👩🏾‍🦱 Facts About Me
 - 🏀 My mum got inspiration for my name from Michael Jordan's ex-wife (so random😅)
 - 🌃 I have lived in London my whole life #CityGirl
 - 🍜 My favourite food is anything from the Asian cuisine
@@ -30,7 +31,7 @@ I'm 22 year old recent graduate (2023) in Politics anad International Studies fr
 
 <br>
 
-### My Projects
+### 🖥️ My Projects
 - [Superstore Exploratory Data Analysis](https://github.com/juanitanels/superstores-eda.git)
 - [Spotify Data Visualisation](https://github.com/juanitanels/spotify-data-visualisation.git)
 - [London Crime Statistics Exploratory Data Analysis](https://github.com/juanitanels/London-Crime-Stats-EDA.git)
