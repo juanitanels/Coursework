@@ -1,5 +1,5 @@
 # ✨ Welcome to my GitHub! ✨
-*The home for all my wonderful CFGDegree Assignments!*
+***The home for all my wonderful CFGDegree Assignments!***
 
 <br>
 <br>
@@ -44,4 +44,20 @@ I will primarily use GitHub for:
 - Collaboration: Working with peers and mentors on open-source or communtity projects
 - Documentation: Keeping detailed track of my coding journey and progress
 - Work in Progress: Showcasing my current projects and receiving constructive feedback from the community
+
+<br>
+
+---
+
+# 📝 Assignment Notes and Explanations
+
+<br>
+
+I already had a GitHub account made, so I was quite familiar with the use of repositories remotely. Above you can find my README.md which details some facts about me using different markdown formatting syntax!
+
+Now I will use screenshots to evidence and explain the process of completing this assignment.
+
+
+
+
 
