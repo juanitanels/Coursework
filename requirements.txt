@@ -1,0 +1,3 @@
+#A requirements.txt main purpose is to list packages and their versions. This is so whoever accesses the repository will be able to access all the files successfully.
+
+#To make any notes/ comments, the '#' must be used, otherwise it will be considered an error.
