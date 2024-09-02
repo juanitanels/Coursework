@@ -152,9 +152,11 @@ This final screenshot shows the final look of my repository with the newly merge
 
 **Requirements.txt**
 
-Requirements.txt is a file used in Python projects to specify the external libraries, pacakages and their versions required for the project to run. This helps ensure the project can be setup and run successfully across different machines. FOr instance, if accessing the files in this resposiotry required a specific version fo Python, the requirements.txt file would contain "Python=3.12.5" to inform the accessor of which version they will need to have installed.
+Requirements.txt is a file used in Python projects to specify the external libraries, pacakages and their versions required for the project to run. This helps ensure the project can be setup and run successfully across different machines. 
 
-<img src="assignment screenshots/ss12.jpg" alt="Alt text" width="800">
+For instance, if accessing the files in this resposiotry required a specific version of Python, the requirements.txt file would contain "Python=3.12.5" to inform the accessor which version they will need to have installed. The screenshot below demonstrates this.
+
+<img src="assignment screenshots/ss13.jpg" alt="Alt text" width="800">
 
 <br>
 
@@ -162,5 +164,6 @@ Requirements.txt is a file used in Python projects to specify the external libra
 
 A .gitignore file is a text file used in Git repositories to specify which files or directories should be ignored by version control. It helps prevent unnecessary files from being tracked or committed.
 
-<img src="assignment screenshots/ss13.jpg" alt="Alt text" width="800">
+Since I created a .gitignore file upon creating the repository, the screenshot below demonstrates an attempt to add a *.log file which git has been told to ignore in the .gitignore file. It can be seen that the file was not added. 
+<img src="assignment screenshots/ss12.jpg" alt="Alt text" width="800">
 
