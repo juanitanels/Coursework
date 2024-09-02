@@ -154,10 +154,13 @@ This final screenshot shows the final look of my repository with the newly merge
 
 Requirements.txt is a file used in Python projects to specify the external libraries, pacakages and their versions required for the project to run. This helps ensure the project can be setup and run successfully across different machines. FOr instance, if accessing the files in this resposiotry required a specific version fo Python, the requirements.txt file would contain "Python=3.12.5" to inform the accessor of which version they will need to have installed.
 
+<img src="assignment screenshots/ss12.jpg" alt="Alt text" width="800">
+
 <br>
 
 **.gitignore**
 
 A .gitignore file is a text file used in Git repositories to specify which files or directories should be ignored by version control. It helps prevent unnecessary files from being tracked or committed.
 
+<img src="assignment screenshots/ss13.jpg" alt="Alt text" width="800">
 
