@@ -57,10 +57,12 @@ I already had a GitHub account made, so I was quite familiar with the use of rep
 
 Now I will use screenshots to evidence and explain the process of completing this assignment.
 
-#### HEADIN
+<br>
+
+#### Process Breakdown
 
 <img src="assignment screenshots/ss1.png" alt="Alt text" width="800">
-I initially created a folder in my documents named CFG Assignments, ensured I was in the correct directory by using `cd` . I used the `ls -a` to check the files in the folder.
+I initially created a folder in my documents named CFG Assignments, and used `cd` to ensure I was in the correct directory. Then, I used the `ls -a` to check the files in the folder.
 
 To create a new file, I used `nano` to create and open the editor for `new_file.py`. 
 
@@ -110,8 +112,6 @@ I then used the command `git push --set-upstream origin dummy-branch` to push my
 
 I then did the same for my ‘feature’ branch.
 
-<br>
-
 <img src="assignment screenshots/ss7.png" alt="Alt text" width="800">
 
 <br>
@@ -126,7 +126,7 @@ This request was for merging my dummy-branch to main to add in the `dummy-doc.py
 
 <br>
 
-It is important to be completely ready to put in a merge request, since once it is made and confirmed, it cannot be undone. The point of a pull request is to review the potential adjustments/changes, get a second opinion and review for final merge. This reviewer is usually assigned as a ‘Collaborator’. However, for the sake of this demonstration, there is no collaborator and I assigned myself as the reviewer.
+It is important to be completely ready to put in a merge request, since once it is made and confirmed, it cannot be undone. The point of a pull request is to review the potential adjustments/changes, get a second opinion and review for final merge. This reviewer is usually assigned as a "Collaborator". However, for the sake of this demonstration, there is no collaborator and I assigned myself as the reviewer.
 
 <br>
 
@@ -146,19 +146,18 @@ This screenshot shows that the pull request was successful and the branches were
 
 <img src="assignment screenshots/ss11.png" alt="Alt text" width="800">
 
-<br>
-
 This final screenshot shows the final look of my repository with the newly merged file dummy-doc.py included.
 
 <br>
 
 **Requirements.txt**
 
-Requirements.txt is a file used in Python projects to specify the external libraries, pacakages and their versions required for the project to run. This helps ensure the project can be setup and run successfully across different machines.
+Requirements.txt is a file used in Python projects to specify the external libraries, pacakages and their versions required for the project to run. This helps ensure the project can be setup and run successfully across different machines. FOr instance, if accessing the files in this resposiotry required a specific version fo Python, the requirements.txt file would contain "Python=3.12.5" to inform the accessor of which version they will need to have installed.
 
 <br>
 
 **.gitignore**
 
 A .gitignore file is a text file used in Git repositories to specify which files or directories should be ignored by version control. It helps prevent unnecessary files from being tracked or committed.
+
 
