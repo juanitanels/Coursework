@@ -8,7 +8,7 @@
 I'm 22 year old recent graduate (2023) in Politics anad International Studies from the Univeristy of Warwick. Despite my degree, I have always been intrigued by technology and its endless possibilities hence why I decided it was time to start my coding journey! I'm so grateful for this CFGDegree opportunity as I will continue to learn, grow and meet more like-minded people!
 
 ### This is me!
-<img src="IMG_2744.jpg" alt="Alt text" width="300">
+<img src="Assignment-1/IMG_2744.jpg" alt="Alt text" width="300">
 
 
 <br>
@@ -61,7 +61,7 @@ Now I will use screenshots to evidence and explain the process of completing thi
 
 #### Process Breakdown
 
-<img src="assignment screenshots/ss1.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss1.png" alt="Alt text" width="800">
 I initially created a folder in my documents named CFG Assignments, and used `cd` to ensure I was in the correct directory. Then, I used the `ls -a` to check the files in the folder.
 
 To create a new file, I used `nano` to create and open the editor for `new_file.py`. 
@@ -74,13 +74,13 @@ I ran into an issue when trying to run `git push` which I resolved by using a Yo
 
 <br>
 
-<img src="assignment screenshots/ss2.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss2.png" alt="Alt text" width="800">
 
 <br>
 
 This meant I was starting somewhat from scratch again so I will now paste some screenshots of the similar process but for the correct repository.
 
-<img src="assignment screenshots/ss3.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss3.png" alt="Alt text" width="800">
 
 <br>
 
@@ -92,11 +92,11 @@ I then used `git branch` to create a new branch and `git switch` to switch from 
 
 <br>
 
-<img src="assignment screenshots/ss4.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss4.png" alt="Alt text" width="800">
 
 <br>
 
-<img src="assignment screenshots/ss5.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss5.png" alt="Alt text" width="800">
 
 <br>
 
@@ -106,13 +106,13 @@ I then used the command `git push --set-upstream origin dummy-branch` to push my
 
 <br>
 
-<img src="assignment screenshots/ss6.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss6.png" alt="Alt text" width="800">
 
 <br>
 
 I then did the same for my ‘feature’ branch.
 
-<img src="assignment screenshots/ss7.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss7.png" alt="Alt text" width="800">
 
 <br>
 
@@ -122,7 +122,7 @@ This request was for merging my dummy-branch to main to add in the `dummy-doc.py
 
 <br>
 
-<img src="assignment screenshots/ss8.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss8.png" alt="Alt text" width="800">
 
 <br>
 
@@ -130,7 +130,7 @@ It is important to be completely ready to put in a merge request, since once it 
 
 <br>
 
-<img src="assignment screenshots/ss9.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss9.png" alt="Alt text" width="800">
 
 <br>
 
@@ -138,13 +138,13 @@ GitHub questions you multiple times to confirm whether you are truly ready to co
 
 <br>
 
-<img src="assignment screenshots/ss10.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss10.png" alt="Alt text" width="800">
 
 This screenshot shows that the pull request was successful and the branches were merged.
 
 <br>
 
-<img src="assignment screenshots/ss11.png" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss11.png" alt="Alt text" width="800">
 
 This final screenshot shows the final look of my repository with the newly merged file dummy-doc.py included.
 
@@ -156,7 +156,7 @@ Requirements.txt is a file used in Python projects to specify the external libra
 
 For instance, if accessing the files in this resposiotry required a specific version of Python, the requirements.txt file would contain "Python=3.12.5" to inform the accessor which version they will need to have installed. The screenshot below demonstrates this.
 
-<img src="assignment screenshots/ss13.jpg" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss13.jpg" alt="Alt text" width="800">
 
 <br>
 
@@ -165,5 +165,5 @@ For instance, if accessing the files in this resposiotry required a specific ver
 A .gitignore file is a text file used in Git repositories to specify which files or directories should be ignored by version control. It helps prevent unnecessary files from being tracked or committed.
 
 Since I created a .gitignore file upon creating the repository, the screenshot below demonstrates an attempt to add a *.log file which git has been told to ignore in the .gitignore file. It can be seen that the file was not added. 
-<img src="assignment screenshots/ss12.jpg" alt="Alt text" width="800">
+<img src="Assignment-1/assignment screenshots/ss12.jpg" alt="Alt text" width="800">
 
