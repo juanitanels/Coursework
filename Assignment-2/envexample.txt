@@ -1,0 +1,3 @@
+# This is the format you must use to create your .env file
+SPOTIPY_CLIENT_ID=INSERT YOUR KEY HERE
+SPOTIPY_CLIENT_SECRET=INSERT YOUR KEY HERE
