@@ -5,7 +5,7 @@
 <br>
 
 ## Hi, I'm Juanita 😊
-I'm 22 year old recent graduate (2023) in Politics anad International Studies from the Univeristy of Warwick. Despite my degree, I have always been intrigued by technology and its endless possibilities hence why I decided it was time to start my coding journey! I'm so grateful for this CFGDegree opportunity as I will continue to learn, grow and meet more like-minded people!
+I'm 22 year old recent graduate (2023) in Politics and International Studies from the Univeristy of Warwick. Despite my degree, I have always been intrigued by technology and its endless possibilities hence why I decided it was time to start my coding journey! I'm so grateful for this CFGDegree opportunity as I will continue to learn, grow and meet more like-minded people!
 
 ### This is me!
 <img src="Assignment-1/IMG_2744.jpg" alt="Alt text" width="300">
